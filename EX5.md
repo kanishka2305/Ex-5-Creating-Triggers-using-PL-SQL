@@ -44,6 +44,7 @@ end;
 ### Output:
 ![image](https://github.com/kanishka2305/Ex-5-Creating-Triggers-using-PL-SQL/assets/113497357/9970274c-4a09-4edb-9c40-bc9e75d0ba79)
 ![image](https://github.com/kanishka2305/Ex-5-Creating-Triggers-using-PL-SQL/assets/113497357/08deaa4a-411e-4f5f-b8a1-7f57ef6130fe)
+
 ![image](https://github.com/kanishka2305/Ex-5-Creating-Triggers-using-PL-SQL/assets/113497357/dd589662-d808-4498-9aa4-d1b03b5d3056)
 ![image](https://github.com/kanishka2305/Ex-5-Creating-Triggers-using-PL-SQL/assets/113497357/6b0a25f7-4d1c-42ad-adb8-154693ab6053)
 
